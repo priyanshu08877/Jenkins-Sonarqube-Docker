@@ -1,2 +1,2 @@
 FROM nginx
-COPY . /usr/share/nginx/html/
+COPY . \Users\priya\Downloads\Oxer Free Website Template - Free-CSS.com\oxer-html
